@@ -10,7 +10,7 @@
     "chart.js": "2.9.3",
     "chart.min.js": "^1.2.3-0",
     "daterangepicker": "3.0.5",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "jquery-knob": "^1.2.11",
     "jqvmap": "1.5.1",
     "overlayscrollbars": "^1.11.0",
